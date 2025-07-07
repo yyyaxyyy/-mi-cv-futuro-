@@ -5,7 +5,7 @@ Mi currículum como me imagino en 10 años
 ## 👩‍💻 Nicole Acevedo Cruz
 - **Profesión:** Desarrolladora Full Stack Senior
 - **Email:** nicole.acevedo.dev@futuremail.com
-- **Teléfono:** +56 9 9876 5432
+- **Teléfono:** +56 9 41267271
 - **Ubicación:** Santiago, Chile
 
 ---
